@@ -1,5 +1,6 @@
 # Шпаргалка по Git
 ## <a id='home'>Содержание</a>
+[Репозитории](#repository)
 [Коммиты](#commits)
    - [Оформление коммитов](#decoration_commits)
    - [Подготовка файла к коммиту](#preparation_commits) 
