@@ -14,7 +14,7 @@
      
 [Изменения](#changes)
 
-## <a id='repository'>Репозитории/a> [:house:](#home)
+## <a id='repository'>Репозитории</a> [:house:](#home)
 ### Инициализация репозитория
 `git init`
 
