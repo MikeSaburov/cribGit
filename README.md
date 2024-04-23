@@ -12,7 +12,7 @@
      
 [Изменения](#changes)
 
-## Репозитории [:house:](#home)
+## <a id='repository'>Репозитории/a> [:house:](#home)
 ### Инициализация репозитория
 `git init`
 
