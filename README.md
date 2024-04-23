@@ -12,7 +12,7 @@
      
 [Изменения](#changes)
 
-## Репозитории
+## Репозитории [:house:](#home)
 ### Инициализация репозитория
 `git init`
 
@@ -29,7 +29,7 @@
 
    `git push -u origin main`
 
-## <a id='commits'>Коммиты</a>
+## <a id='commits'>Коммиты</a> [:house:](#home)
 ### <a id='decoration_commits'>Оформление коммитов</a>
 
 **Рекомендации:**
@@ -130,9 +130,9 @@
 
   *Пример:* `git reset --hard <commit hash>`
 
-## <a id='changes'>Изменения</a>
+## <a id='changes'>Изменения</a> [:house:](#home)
 
-### Просмотр изменений [:house:](#home)
+### Просмотр изменений 
 
 1. Просмотр изменений в файле (`modified`)
 
