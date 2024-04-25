@@ -15,6 +15,7 @@
 [Изменения](#changes)
 
 [Ветки](#branch)
+   - [Название ветки](#name_branch)
    - [Создание и переход на ветку](#create_branch)
    - [Сравнение веток](#comparison_branch)
 
@@ -154,7 +155,7 @@
 
 ## <a id='branch'>Ветки</a>  [:house:](#home)
 
-### Название ветки
+### <a id='name_branch'>Название ветки</a>
 **Рекомендации:**
   
    *Пример:* `bugfix/current-branch`
